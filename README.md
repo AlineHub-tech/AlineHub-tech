@@ -1,0 +1,43 @@
+A'm Umugwaneza Aline
+Creative Frontend Developer | Graphic Designer | Photographer | ICT Specialist
+
+Passionate about using technology and creativity to solve real-world problems. I specialize in building user-friendly web interfaces using HTML, CSS, PHP, and designing visual content using Photoshop CC. I'm also exploring the world of photography, camera techniques, and visual storytelling.
+
+💡 Skilled in:
+
+Web Development: HTML, CSS, PHP, SQL, MySQLi
+
+Design & Creativity: Graphic Design (Photoshop CC), Poster Design, Photo Editing
+
+Photography: Camera handling, ISO, Aperture, Shutter Speed, Composition
+
+ICT Tools: Microsoft Word, Excel, PowerPoint, Publisher and Google Apps
+
+Project Building: Smart Kigali (Waste Management System), Citizen Engagement Platform
+
+🎯 Currently learning advanced Photoshop, camera handling, and developing systems that create social impact.
+
+🛠 Tools I Use: VS Code, Sublime Text, Photoshop CC, Mobile Photography, camera, Adobe illustrator,Canva
+
+📍 Based in Kigali, Rwanda | 💬 Fluent in Kinyarwanda & English
+
+👉 I’m open to collaborations, projects, and opportunities in tech and design.
+☎️Contact info:
+
+Linkedin:
+https://www.linkedin.com/in/umugwaneza-aline-655146325
+
+Instagram:
+https://www.instagram.com/a_li_ne97?igsh=dGs5MXVnbnpsbzIz
+
+Facebook:
+https://www.facebook.com/share/15erRQdApJ/
+
+Threds: https://www.threads.net/@a_li_ne97
+
+Email: umugwanezaaline77@gmail.com
+
+Telegram:
+https://telegram.org/dl
+
+Whattp number: 0796023452
