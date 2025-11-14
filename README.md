@@ -11,13 +11,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 
-
 ###  Backend Development  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,apache,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache)](https://skillicons.dev)
 
 >  *XAMPP = PHP + Apache*  
-Nta XAMPP icon ihari kuri skillicons, ariko PHP + Apache = XAMPP byuzuye.
-
 
 
 ###  Databases  
