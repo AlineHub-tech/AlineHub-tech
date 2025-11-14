@@ -1,11 +1,9 @@
 <h1 align="center">
-  Hey there!👋 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+  Hello 👋, I'm <span style="color:#4CAF50;">Aline</span>  
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=31F7C8&center=true&vCenter=true&width=600&lines=Creative+Full+Stack+Developer;Frontend+Designer+%7C+React+Lover;Building+clean+%26+modern+digital+experiences;Passionate+about+Tech+and+Innovation" alt="Typing Animation" />
 </h1>
 
-<h2 align="center" style="font-weight: bold;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C3FF&center=true&vCenter=true&width=650&height=60&lines=Aline+Hub-tech;Creative+Full+Stack+Developer;Frontend+Developer;Graphic+Designer;Tech+Enthusiast;Problem+Solver" />
-</h2>
 
 ##  Tech Stack
 
