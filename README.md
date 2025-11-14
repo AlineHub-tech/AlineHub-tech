@@ -30,7 +30,19 @@
 ###  Tools & Platforms  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell)](https://skillicons.dev)
 
+#  GitHub Stats & Activity
 
+##  Overall Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-###  Full Stack (All-in-One Line Preview)  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,apache,mongodb,mysql,postgres,python,java,git,github,vscode,postman,figma)](https://skillicons.dev)
+##  Streak Activity  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlineHub-tech&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+##  Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
