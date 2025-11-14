@@ -11,10 +11,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
 
+
 ###  Backend Development  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache)](https://skillicons.dev)
 
 >  *XAMPP = PHP + Apache*  
+
 
 
 ###  Databases  
@@ -22,8 +24,10 @@
 
 
 
+
 ###  Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,kotlin)](https://skillicons.dev)
+
 
 
 
@@ -37,12 +41,37 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+
 ##  Streak Activity  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AlineHub-tech&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+
 ##  Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+
+# Social Media  
+<p align="center">
+  <a href="https://www.instagram.com/a_li_ne97?igsh=dGs5MXVnbnpsbzIz">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/umugwaneza-aline-655146325">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
+  </a>
+
+  <a href="https://www.facebook.com/share/15erRQdApJ/">
+    <img src="https://skillicons.dev/icons?i=facebook" width="50px" />
+  </a>
+</p>
+
+
+##  Quote  
+ "Creativity + Code = Power to build the future." 
+
+
+###  Thanks for visiting my profile! Stay awesome 💚
