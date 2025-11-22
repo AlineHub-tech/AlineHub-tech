@@ -1,7 +1,7 @@
 <h1 align="center">
   Hello 👋, I'm <span style="color:#4CAF50;">Aline</span>  
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=31F7C8&center=true&vCenter=true&width=600&lines=Creative+Full+Stack+Developer;Frontend+Designer+%7C+React+Lover;Building+clean+%26+modern+digital+experiences;Passionate+about+Tech+and+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=31F7C8&center=true&vCenter=true&width=600&lines=Creative+Full+Stack+Developer;Frontend+modern+%7C+React+Lover;Building+clean;+modern+digital+experiences;Passionate+about+Tech+and+Innovation" alt="Typing Animation" />
 </h1>
 
 
