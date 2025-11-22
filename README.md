@@ -49,9 +49,7 @@
 
 
 ##  Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=30&hide_border=false)
 
 
 # Social Media  
