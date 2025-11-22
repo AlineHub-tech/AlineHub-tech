@@ -37,19 +37,14 @@
 #  GitHub Stats & Activity
 
 ##  Overall Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p>
+![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=radical&hide_border=true)
 
 
 ##  Streak Activity  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlineHub-tech&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlineHub-tech&theme=radical&hide_border=true)
 
 ##  Top Languages  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=30&hide_border=false)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=30&hide_border=true&theme=radical)
 
 
 # Social Media  
