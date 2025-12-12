@@ -34,33 +34,40 @@
 ###  Tools & Platforms  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell)](https://skillicons.dev)
 
-#  GitHub Stats & Activity
-
-##  Overall Stats  
-![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=radical&hide_border=true)
-
-
-##  Streak Activity  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlineHub-tech&theme=radical&hide_border=true)
-
-##  Top Languages  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=30&hide_border=true&theme=radical)
+### 🎨 Graphic Design 
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=#FFD100)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=#FF0000)
 
 
-# Social Media  
-<p align="center">
-  <a href="https://www.instagram.com/a_li_ne97?igsh=dGs5MXVnbnpsbzIz">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50px" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/umugwaneza-aline-655146325">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50px" />
-  </a>
+## 📊 GitHub Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMUGWANEZAALINE&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMUGWANEZAALINE&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UMUGWANEZAALINE&theme=radical)
 
-  <a href="https://www.facebook.com/share/15erRQdApJ/">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50px" />
-  </a>
-</p>
+
+## 💻 Projects
+| Project | Description | Tech | Demo / Screenshot |
+|---------|-------------|------|-----------------|
+| Smart Kigali | Waste management system for Kigali | React, PHP, MySQL | ![Smart Kigali GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) |
+| Nexus News Network | News CMS platform with admin dashboard | React, Node.js, MongoDB | ![Nexus GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
+| Citizen Complaints System | Feedback & complaints platform | React, PHP, MySQL | ![Citizen GIF](https://media.giphy.com/media/26xBukhq39cFzWc3O/giphy.gif) |
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umugwaneza-aline-655146325)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aline-site-seven.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_li_ne97?igsh=dGs5MXVnbnpsbzIz)
+
+
+
+## 🌐 Visitors
+![Visitor Count](https://profile-counter.glitch.me/UMUGWANEZAALINE/count.svg)
+
+---
+
+ “Building tech solutions that are *creative, interactive, and efficient!* 🌍”
 
 
 ##  Quote  
