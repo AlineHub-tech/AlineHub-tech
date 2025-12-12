@@ -20,50 +20,24 @@
 
 # 🛠 *Tech Stack*
 
-### 🎨 Frontend  
+### 🎨 Frontend  development 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
-### ⚙ Backend  
+###  Backend  development 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache)](https://skillicons.dev)
 
-### 🗄 Databases  
+### 🗄 Databases  development 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)](https://skillicons.dev)
 
 ### 💻 Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,kotlin)](https://skillicons.dev)
 
-### 🧰 Tools  
+### Platforms & Tools  
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell)](https://skillicons.dev)
 
 ### 🎨 Graphic Design  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
----
-
-# 🚀 *Featured Projects (Auto From Your GitHub)*  
-
-### 🔹 *Smart Kigali — Waste Management System*
-- *Tech:* React, PHP, MySQL  
-- *Repo:* https://github.com/UMUGWANEZAALINE/Smart-Kigali  
-- *Screenshot:*  
-  ![Smart Kigali](https://github.com/UMUGWANEZAALINE/Smart-Kigali/blob/main/screenshot.png)
-
----
-
-### 🔹 *Nexus News Network — News CMS Platform*
-- *Tech:* React, Node.js, MongoDB  
-- *Repo:* https://github.com/UMUGWANEZAALINE/Nexus-News  
-- *Screenshot:*  
-  ![Nexus](https://github.com/UMUGWANEZAALINE/Nexus-News/blob/main/screenshot.png)
-
----
-
-### 🔹 *Citizen Complaints System*
-- *Tech:* React, PHP, MySQL  
-- *Repo:* https://github.com/UMUGWANEZAALINE/Citizen-Complaints  
-- *Screenshot:*  
-  ![Citizen](https://github.com/UMUGWANEZAALINE/Citizen-Complaints/blob/main/screenshot.png)
 
 ---
 
@@ -78,12 +52,6 @@
 
 </div>
 
----
-
-# 🎯 GitHub Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UMUGWANEZAALINE&theme=react-dark)
-
----
 
 # 🌍 Visitors
 <div align="center">
