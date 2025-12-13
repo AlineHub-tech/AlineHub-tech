@@ -13,7 +13,7 @@
 
 ## 🇷🇼 About Me  
 🔥 Creative Full-Stack Developer from Rwanda  
-🔥 Passionate in *Frontend (React), **Backend, **Databases, and **Graphics Design*  
+🔥 Passionate in *Frontend (React), *Backend, *Databases, and *Graphics Design*  
 🔥 I build *Smart, Clean & Modern Digital Solutions*
 
 ---
@@ -44,11 +44,11 @@
 # 📊 GitHub Stats & Activity  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UMUGWANEZAALINE&show_icons=true&theme=tokyonight&count_private=true&border_radius=20" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&count_private=true&border_radius=20" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UMUGWANEZAALINE&theme=tokyonight&border_radius=20" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlineHub-tech&theme=tokyonight&border_radius=20" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMUGWANEZAALINE&layout=compact&theme=tokyonight&border_radius=20" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&border_radius=20" height="165"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 # 🌍 Visitors
 <div align="center">
   
-![Visitors](https://profile-counter.glitch.me/UMUGWANEZAALINE/count.svg)
+![Visitors](https://profile-counter.glitch.me/AlineHub-tech/count.svg)
 
 </div>
 
