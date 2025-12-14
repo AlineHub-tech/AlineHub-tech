@@ -5,13 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=2EB82E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Frontend+Engineer;Graphics+Designer;Building+Smart+Digital+Solutions;Tech+%7C+Innovation+Enthusiast" alt="Typing Animation" />
 </h1>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/152378886?v=4" width="140" style="border-radius:50%; border:4px solid #1A94FF;" />
-</div>
-
----
-
-## 🇷🇼 About Me  
+##  About Me  
 🔥 Creative Full-Stack Developer from Rwanda  
 🔥 Passionate in *Frontend (React), *Backend, *Databases, and *Graphics Design*  
 🔥 I build *Smart, Clean & Modern Digital Solutions*
