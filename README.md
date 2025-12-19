@@ -34,27 +34,31 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats & Activity  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&count_private=true&border_radius=20" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlineHub-tech&theme=tokyonight&border_radius=20" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&border_radius=20" height="165"/>
-
-</div>
-
-
-# 🌍 Visitors
-<div align="center">
-  
-![Visitors](https://profile-counter.glitch.me/AlineHub-tech/count.svg)
-
-</div>
+Frontend Developer • Designer • ICT Enthusiast 
+![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat)
 
 ---
+
+## 🏆 GitHub Profile Trophy
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=onedark&row=1&column=6)
+
+---
+
+## 🔥 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AlineHub-tech&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages (All Languages Used)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=20&theme=tokyonight)
+
 
 # 🤝 Connect With Me  
 <div align="center">
