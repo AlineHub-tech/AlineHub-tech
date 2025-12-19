@@ -34,7 +34,6 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
-Frontend Developer • Designer • ICT Enthusiast 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat)
 ![Stars](https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat)
