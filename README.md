@@ -1,4 +1,4 @@
-<!-- HEADER WITH AVATAR + RWANDA COLORS -->
+
 <h1 align="center">
   <span style="color:#1A94FF;">Umugwaneza Aline</span>  
   <br/>
