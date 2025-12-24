@@ -1,6 +1,6 @@
 <!-- HEADER WITH AVATAR + RWANDA COLORS -->
 <h1 align="center">
-  🌟 <span style="color:#1A94FF;">Umugwaneza Aline</span> 🌟  
+  <span style="color:#1A94FF;">Umugwaneza Aline</span>  
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=2EB82E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Frontend+Engineer;Graphics+Designer;Building+Smart+Digital+Solutions;Tech+%7C+Innovation+Enthusiast" alt="Typing Animation" />
 </h1>
