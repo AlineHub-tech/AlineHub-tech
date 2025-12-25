@@ -8,8 +8,8 @@
 ##  About Me  
 🔥 Creative Full-Stack Developer from Rwanda  
 🔥 Passionate in Frontend (React), Backend, Databases, and Graphics Design
-🔥 I build Smart, Clean & Modern Digital Solutions
 
+🔥 I build Smart, Clean & Modern Digital Solutions
 ---
 
 # 🛠 *Tech Stack*
