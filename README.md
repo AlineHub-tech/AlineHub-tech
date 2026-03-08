@@ -1,78 +1,79 @@
-
 <h1 align="center">
-  <span style="color:#1A94FF;">Umugwaneza Aline</span>  
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=2EB82E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Frontend+Engineer;Graphics+Designer;Building+Smart+Digital+Solutions;Tech+%7C+Innovation+Enthusiast" alt="Typing Animation" />
+  <img src="https://herokuapp.com" alt="Typing Animation" />
 </h1>
 
-##  About Me  
-🔥 Creative Full-Stack Developer from Rwanda  
- Passionate in Frontend (React), Backend, Databases, and Graphics Design
- I build Smart, Clean & Modern Digital Solutions
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
-# 🛠 *Tech Stack*
+### 🚀 About Me
+I am a **Creative Full-Stack Developer** and the founder of **ByteFlow Ltd**. I bridge the gap between complex backend logic and stunning frontend aesthetics. My mission is to build digital solutions that are not just functional, but also beautiful and scalable.
 
-### 🎨 Frontend  development 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui)](https://skillicons.dev)
-
-###  Backend  development 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache)](https://skillicons.dev)
-
-### 🗄 Databases  development 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)](https://skillicons.dev)
-
-### 💻 Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,kotlin)](https://skillicons.dev)
-
-### Platforms & Tools  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell)](https://skillicons.dev)
-
-### 🎨 Graphic Design  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat)
-![Stars](https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat)
+- ⚡ **Fun Fact:** I believe that good design is as important as clean code.
+- 🔭 **Current Focus:** Scaling ByteFlow Ltd to empower local businesses.
+- 🌱 **Learning:** Advanced AI integrations in Web Apps.
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=onedark&row=1&column=6)
-
----
-
-## 🔥 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AlineHub-tech&theme=tokyonight)
+### 💼 My Services (ByteFlow Ltd)
+*Need a digital boost? Here is what I can do for you:*
+- 🌐 **Web Development:** High-performance React & Next.js applications.
+- 🎨 **Graphic Design & Branding:** Creating visual identities that stand out.
+- 📈 **SEO Optimization:** Making sure your business is found on Google & AI search.
+- ☁️ **Web Hosting & Domain:** Secure and lightning-fast digital infrastructure.
 
 ---
 
-## 🧠 Top Languages (All Languages Used)
+### 🛠 Tech Ecosystem
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=20&theme=tokyonight)
-
-
-# 🤝 Connect With Me  
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umugwaneza-aline)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aline-site-seven.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_li_ne97)
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="480" alt="Frontend" />
+      <br /><b>Frontend</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="480" alt="Backend" />
+      <br /><b>Backend & DB</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="480" alt="Tools" />
+      <br /><b>Design & Tools</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 💡 Quote  
-> "Creativity + Code = The Power to Build the Future."
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://vercel.app" width="400" />
+  <img src="https://vercel.app" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://demolab.com" width="700" />
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile! Stay Amazing 💚
+### 🤝 Let's Connect
+<p align="center">
+<a href="https://www.linkedin.com/in/umugwaneza-aline"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://aline-site-seven.vercel.app"><img src="https://shields.io" /></a>
+<a href="https://www.instagram.com/a_li_ne97"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://shields.io" /></a>
+</p>
+
+<p align="center">
+  <i>"Creativity + Code = The Power to Build the Future."</i> <br />
+  <b>Stay Amazing! 💚</b>
+</p>
