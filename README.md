@@ -50,9 +50,6 @@ I bridge the gap between complex backend logic and stunning frontend aesthetics.
 ### 🎥 Videography & Photography
 [![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-### 🎨 Graphic Design & UI/UX
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat)
