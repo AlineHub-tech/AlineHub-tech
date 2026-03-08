@@ -23,32 +23,25 @@ I bridge the gap between complex backend logic and stunning frontend aesthetics.
 
 # 🛠 *Tech Stack*
 
-### 🎨 Frontend Development 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### 🎨 Frontend  development 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
-### ⚙️ Backend Development 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+###  Backend  development 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache)](https://skillicons.dev)
 
-### 🗄 Databases Development 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
-### 🌐 Web Hosting & Domain Management
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
-### 📈 Digital Marketing & SEO
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
-### 🎥 Videography & Photography
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
-
-### 🎨 Graphic Design & UI/UX
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### 🗄 Databases  development 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)](https://skillicons.dev)
 
 ### 💻 Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,kotlin)](https://skillicons.dev)
 
-### 🛠 Platforms & Tools  
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### Platforms & Tools  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell)](https://skillicons.dev)
+
+### 🎨 Graphic Design  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
