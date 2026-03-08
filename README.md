@@ -1,79 +1,87 @@
 <h1 align="center">
+  <span style="color:#1A94FF;">Umugwaneza Aline</span>  
+  <br/>
   <img src="https://herokuapp.com" alt="Typing Animation" />
 </h1>
 
+## 🚀 About Me  
+🔥 **Creative Full-Stack Developer from Rwanda**  
+I bridge the gap between complex backend logic and stunning frontend aesthetics. I specialize in building smart, clean, and modern digital solutions that solve real-world problems.
+
+---
+
+## 🛠️ My Services
+*I help brands and businesses stand out through:*
+- 🌐 **Web Development:** High-performance, responsive & SEO-friendly websites.
+- 🎨 **Graphic Design:** Professional Branding, Logos, and Marketing visuals.
+- 📉 **SEO Optimization:** Ranking your business on top of Google & AI search.
+- ⚙️ **Tech Infrastructure:** Secure Web Hosting & Domain Management.
+- 📱 **UI/UX Design:** Creating intuitive and beautiful user interfaces.
+
+---
+
+# 🛠 *Tech Stack*
+
+### 🎨 Frontend Development 
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### ⚙️ Backend Development 
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 🗄 Databases Development 
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 💻 Programming Languages  
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 🛠 Platforms & Tools  
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 🖌 Graphic Design  
+![Photoshop](https://shields.io)
+![Illustrator](https://shields.io)
+
+---
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+<img src="https://komarev.com" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a **Creative Full-Stack Developer** and the founder of **ByteFlow Ltd**. I bridge the gap between complex backend logic and stunning frontend aesthetics. My mission is to build digital solutions that are not just functional, but also beautiful and scalable.
-
-- ⚡ **Fun Fact:** I believe that good design is as important as clean code.
-- 🔭 **Current Focus:** Scaling ByteFlow Ltd to empower local businesses.
-- 🌱 **Learning:** Advanced AI integrations in Web Apps.
+## 🏆 GitHub Profile Trophy
+![Trophy](https://vercel.app)
 
 ---
 
-### 💼 My Services (ByteFlow Ltd)
-*Need a digital boost? Here is what I can do for you:*
-- 🌐 **Web Development:** High-performance React & Next.js applications.
-- 🎨 **Graphic Design & Branding:** Creating visual identities that stand out.
-- 📈 **SEO Optimization:** Making sure your business is found on Google & AI search.
-- ☁️ **Web Hosting & Domain:** Secure and lightning-fast digital infrastructure.
-
----
-
-### 🛠 Tech Ecosystem
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="480" alt="Frontend" />
-      <br /><b>Frontend</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="480" alt="Backend" />
-      <br /><b>Backend & DB</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="480" alt="Tools" />
-      <br /><b>Design & Tools</b>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
+## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://vercel.app" width="400" />
-  <img src="https://vercel.app" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://demolab.com" width="700" />
+<img src="https://vercel.app" width="48%" />
+<img src="https://demolab.com" width="48%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
-<p align="center">
-<a href="https://www.linkedin.com/in/umugwaneza-aline"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://aline-site-seven.vercel.app"><img src="https://shields.io" /></a>
-<a href="https://www.instagram.com/a_li_ne97"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://shields.io" /></a>
-</p>
+## 🧠 Top Languages
+![Top Languages](https://vercel.app)
 
-<p align="center">
-  <i>"Creativity + Code = The Power to Build the Future."</i> <br />
-  <b>Stay Amazing! 💚</b>
-</p>
+---
+
+# 🤝 Connect With Me  
+<div align="center">
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Portfolio](https://shields.io)](https://vercel.app)
+[![Instagram](https://shields.io)](https://instagram.com)
+
+</div>
+
+---
+
+# 💡 Quote  
+> "Creativity + Code = The Power to Build the Future."
+
+---
+
+### ⭐ Thanks for visiting my profile! Stay Amazing 💚
