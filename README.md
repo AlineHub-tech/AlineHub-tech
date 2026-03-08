@@ -1,7 +1,8 @@
+
 <h1 align="center">
   <span style="color:#1A94FF;">Umugwaneza Aline</span>  
   <br/>
-  <img src="https://herokuapp.com" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=2EB82E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Frontend+Engineer;Graphics+Designer;Building+Smart+Digital+Solutions;Tech+%7C+Innovation+Enthusiast" alt="Typing Animation" />
 </h1>
 
 ## 🚀 About Me  
@@ -22,58 +23,57 @@ I bridge the gap between complex backend logic and stunning frontend aesthetics.
 
 # 🛠 *Tech Stack*
 
-### 🎨 Frontend Development 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### 🎨 Frontend  development 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui)](https://skillicons.dev)
 
-### ⚙️ Backend Development 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+###  Backend  development 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,laravel,apache)](https://skillicons.dev)
 
-### 🗄 Databases Development 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### 🗄 Databases  development 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase)](https://skillicons.dev)
 
 ### 💻 Programming Languages  
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,kotlin)](https://skillicons.dev)
 
-### 🛠 Platforms & Tools  
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### Platforms & Tools  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,powershell)](https://skillicons.dev)
 
-### 🖌 Graphic Design  
-![Photoshop](https://shields.io)
-![Illustrator](https://shields.io)
+### 🎨 Graphic Design  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
-<p align="center">
-<img src="https://komarev.com" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat)
 
 ---
 
 ## 🏆 GitHub Profile Trophy
-![Trophy](https://vercel.app)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=onedark&row=1&column=6)
 
 ---
 
 ## 🔥 GitHub Activity
-<p align="center">
-<img src="https://vercel.app" width="48%" />
-<img src="https://demolab.com" width="48%" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AlineHub-tech&theme=tokyonight)
 
 ---
 
-## 🧠 Top Languages
-![Top Languages](https://vercel.app)
+## 🧠 Top Languages (All Languages Used)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=20&theme=tokyonight)
+
 
 # 🤝 Connect With Me  
 <div align="center">
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfolio](https://shields.io)](https://vercel.app)
-[![Instagram](https://shields.io)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umugwaneza-aline)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aline-site-seven.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_li_ne97)
 
 </div>
 
