@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <span style="color:#1A94FF;">Umugwaneza Aline</span>  
   <br/>
@@ -42,6 +41,17 @@ I bridge the gap between complex backend logic and stunning frontend aesthetics.
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+### 🌐 Web Hosting & Domain Management
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 📈 Digital Marketing & SEO
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 🎥 Videography & Photography
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+### 🎨 Graphic Design & UI/UX
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile%20views&color=0e75b6&style=flat)
