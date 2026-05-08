@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1A94FF&center=true&vCenter=true&width=650&lines=Umugwaneza+Aline;Full+Stack+Developer;Creative+Frontend+Engineer;Digital+Creator+From+Rwanda" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1A94FF&center=true&vCenter=true&width=700&lines=Umugwaneza+Aline;Full+Stack+Developer;Creative+Frontend+Engineer;Digital+Creator+From+Rwanda" />
 </h1>
 
 <p align="center">
@@ -7,22 +7,6 @@
   <img src="https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat&color=2EB82E" />
   <img src="https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat&color=FFD700" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building modern digital solutions that combine technology, creativity, and innovation.
-
-### 💡 Focus Areas
-- 🌐 Full-Stack Web Development
-- 🎨 UI/UX & Graphic Design
-- 📱 Responsive Web Applications
-- 📈 SEO & Digital Growth
-- 🎥 Creative Media Production
-- 🚀 Technical Mentorship & Leadership
 
 ---
 
@@ -34,12 +18,35 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-## 🚀 Professional Services
+## 👨‍💻 About Me
 
-### 🌐 Web & Software Development
-- 💻 Front-End & Back-End Development
-- 🎨 Responsive UI/UX Design
-- 🗄 Database Management
+<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+Creative and passionate **Full-Stack Developer** from **Rwanda 🇷🇼** focused on building smart, modern, and impactful digital solutions.
+
+I bridge the gap between powerful backend systems and beautiful frontend experiences while helping businesses grow through technology, creativity, and digital innovation.
+
+### 🚀 What I Do
+- 🌐 Build modern and scalable web applications
+- 🎨 Design beautiful UI/UX interfaces
+- 📱 Create responsive websites & web apps
+- 📈 Help businesses grow using SEO & digital strategy
+- 🎥 Produce creative media content
+- 👩‍💻 Support and mentor young people in technology
+
+---
+
+# 🚀 Professional Services
+
+## 🌐 1. Web & Software Development
+
+Building modern, responsive, and high-performance digital platforms for businesses, brands, and organizations.
+
+| Service | Description |
+|---|---|
+| 💻 Front-End & Back-End Development | Building modern websites and web applications using scalable technologies |
+| 🎨 UI/UX Design | Creating attractive, user-friendly, and responsive interfaces |
+| 🗄 Database Management | Managing and securing business data efficiently |
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase" />
@@ -47,24 +54,35 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-### 🎨 Creative Media Services
-- 🖌 Graphic Design & Branding
-- 📸 Professional Photography
-- 🎥 Videography & Editing
+## 🎨 2. Creative Media Services
+
+Helping brands stand out through creative visuals and professional media production.
+
+| Service | Description |
+|---|---|
+| 🖌 Graphic Design | Logos, branding, posters, business cards, and marketing visuals |
+| 📸 Photography | Professional headshots, product photography, and event coverage |
+| 🎥 Videography | Video shooting, editing, promotional videos, and advertisements |
 
 <p>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-0C61FF?style=flat-square&logo=AdobeLightroom&logoColor=white"/>
 </p>
 
 ---
 
-### 📑 Office & Documentation
-- 📝 Business Documents & Reports
-- 📊 Excel Data Management
-- 📽 Professional Presentations
-- 📄 PDF Formatting & Conversion
+## 📑 3. Professional Office & Documentation
+
+Providing professional documentation, reports, and office solutions for businesses and organizations.
+
+| Service | Description |
+|---|---|
+| 📝 Microsoft Word | Business reports, letters, proposals, and professional documents |
+| 📊 Microsoft Excel | Data management, bookkeeping, and calculations |
+| 📽 Microsoft PowerPoint | Modern presentations with professional animations |
+| 📄 PDF Services | Formatting, conversion, and professional document editing |
 
 <p>
 <img src="https://img.shields.io/badge/Word-185ABD?style=flat-square&logo=microsoftword&logoColor=white"/>
@@ -74,10 +92,15 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-### 📈 Digital Marketing & Growth
-- 🔍 SEO Optimization
-- 📱 Content Creation
-- 🚀 Digital Strategy
+## 📈 4. Digital Marketing & Growth
+
+Helping businesses improve online visibility, branding, and digital performance.
+
+| Service | Description |
+|---|---|
+| 🔍 SEO Optimization | Improving Google ranking and online visibility |
+| 📱 Content Creation | Creating engaging social media content and marketing visuals |
+| 🚀 Digital Strategy | Helping businesses use technology for growth and customer engagement |
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,linkedin,instagram" />
@@ -85,10 +108,15 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-### 👩‍💻 Mentorship & Leadership
-- 🎓 Git & GitHub Training
-- 👑 DevQueens Leadership
-- 📂 Project Management
+## 👩‍💻 5. Entrepreneurship & Technical Mentorship
+
+Empowering youth and future innovators through leadership and technology mentorship.
+
+| Service | Description |
+|---|---|
+| 🎓 Technical Training | Teaching Git, GitHub, and beginner-friendly tech skills |
+| 👑 DevQueens Leadership | Supporting and guiding girls entering the tech industry |
+| 📂 Project Management | Managing projects professionally with quality and efficiency |
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
@@ -96,26 +124,31 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,js,ts,php" />
 </p>
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap,redux" />
 </p>
 
-### Databases
+### 🗄 Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
 </p>
 
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,powershell,bash" />
+</p>
+
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -125,7 +158,7 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-## 🔥 Contribution Graph
+# 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&theme=tokyo-night&hide_border=true&area=true" />
@@ -133,7 +166,7 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-## 📈 GitHub Analysis
+# 📈 GitHub Analysis
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlineHub-tech&theme=tokyonight" />
@@ -147,7 +180,7 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-## 🏅 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -155,7 +188,7 @@ Creative Full-Stack Developer from Rwanda 🇷🇼 passionate about building mod
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/umugwaneza-aline">
