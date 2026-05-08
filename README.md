@@ -11,7 +11,8 @@
 ---
 
 ## 🏆 GitHub Rank In Rwanda
-[![Top GitHub Contributor in Rwanda](https://committers.top)](https://github.com/AlineHub-tech)
+[![Top GitHub Contributor in Rwanda](https://github.com/AlineHub-tech](https://committers.top)
+
 
 
 
