@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1A94FF&center=true&vCenter=true&width=700&lines=Umugwaneza+Aline;Full+Stack+Developer;Creative+Frontend+Engineer;Digital+Creator+From+Rwanda" />
+  <span style="color:#1A94FF;">Umugwaneza Aline</span>  
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=2EB82E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Frontend+Engineer;Graphics+Designer;Building+Smart+Digital+Solutions;Tech+%7C+Innovation+Enthusiast" alt="Typing Animation" />
 </h1>
 
 <p align="center">
