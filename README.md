@@ -12,20 +12,6 @@
 
 ---
 
-## 🏆 Top Committers In Rwanda 🇷🇼
-
-<p align="center">
-  <a href="https://committers.top">
-    <img src="https://committers.top" alt="AlineHub-tech GitHub Rank" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Top%20GitHub%20Contributor-Rwanda-1A94FF?style=for-the-badge" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
