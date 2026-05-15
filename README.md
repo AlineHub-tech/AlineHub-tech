@@ -1,129 +1,205 @@
-<div align="center">
+<h1 align="center">
+  <span style="color:#1A94FF;">Umugwaneza Aline</span>  
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=2EB82E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Frontend+Engineer;Graphics+Designer;Building+Smart+Digital+Solutions;Tech+%7C+Innovation+Enthusiast" alt="Typing Animation" />
+</h1>
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aline+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+for+Rwanda+%F0%9F%87%B7%F0%9F%87%BC;Restoring+Hope%2C+Building+Futures+%F0%9F%92%9B)](https://git.io/typing-svg)
-
-<!-- Rwanda Flag + Location Badge -->
-<img src="https://img.shields.io/badge/📍_Kigali-Rwanda_🇷🇼-00A1DE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-20B2AA?style=for-the-badge&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/Pronouns-She%2FHer-FF69B4?style=for-the-badge" />
-
-</div>
-
----
-
-## 👩🏾‍💻 About Me
-
-```javascript
-const Aline = {
-  name:       "UMUGWANEZA Aline",
-  username:   "AlineHub-tech",
-  location:   "Kigali, Rwanda 🇷🇼",
-  role:       "Full Stack Developer",
-  mission:    "Tech for social good — building tools that change lives",
-  currentProject: "A Better Tomorrow (ABT) Foundation Website",
-  funFact:    "I write code by day and restore hope by night 💛"
-};
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile+Views&color=1A94FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat&color=2EB82E" />
+  <img src="https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat&color=FFD700" />
+</p>
 
 ---
 
-## 🏆 GitHub Stats & Rank
+## 👨‍💻 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!-- GitHub Stats Card with Rank -->
-<img src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged" 
-     alt="Aline's GitHub Stats" height="180"/>
+Creative and passionate **Full-Stack Developer** from **Rwanda 🇷🇼** focused on building smart, modern, and impactful digital solutions.
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&langs_count=8" 
-     alt="Top Languages" height="180"/>
+I bridge the gap between powerful backend systems and beautiful frontend experiences while helping businesses grow through technology, creativity, and digital innovation.
 
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlineHub-tech&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Profile Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=tokyonight&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+### 🚀 What I Do
+- 🌐 Build modern and scalable web applications
+- 🎨 Design beautiful UI/UX interfaces
+- 📱 Create responsive websites & web apps
+- 📈 Help businesses grow using SEO & digital strategy
+- 🎥 Produce creative media content
+- 👩‍💻 Support and mentor young people in technology
 
 ---
 
-## 📊 Contribution Activity
+# 🚀 Professional Services
 
-<div align="center">
+## 🌐 1. Web & Software Development
 
-[![Aline's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&theme=tokyo-night&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Building modern, responsive, and high-performance digital platforms for businesses, brands, and organizations.
 
-</div>
+| Service | Description |
+|---|---|
+| 💻 Front-End & Back-End Development | Building modern websites and web applications using scalable technologies |
+| 🎨 UI/UX Design | Creating attractive, user-friendly, and responsive interfaces |
+| 🗄 Database Management | Managing and securing business data efficiently |
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,mongodb,mysql,postgres,firebase" />
+</p>
 
 ---
 
-## 🌍 Featured Project
+## 🎨 2. Creative Media Services
 
-<div align="center">
+Helping brands stand out through creative visuals and professional media production.
 
-[![ABT Foundation](https://github-readme-stats.vercel.app/api/pin/?username=AlineHub-tech&repo=abt-foundation&theme=tokyonight)](https://github.com/AlineHub-tech/abt-foundation)
+| Service | Description |
+|---|---|
+| 🖌 Graphic Design | Logos, branding, posters, business cards, and marketing visuals |
+| 📸 Photography | Professional headshots, product photography, and event coverage |
+| 🎥 Videography | Video shooting, editing, promotional videos, and advertisements |
 
-> 💛 **A Better Tomorrow (ABT) Foundation** — Restoring hope for vulnerable street children and families in Rwanda through tech-driven social impact.
->
-> 🔗 [Visit Live Site](https://a-better-tomorrow-foundation-org.vercel.app/)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aline-umugwaneza)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alineumugwaneza@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlineHub-tech)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge)](https://a-better-tomorrow-foundation-org.vercel.app/)
-
-</div>
+<p>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-0C61FF?style=flat-square&logo=AdobeLightroom&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
+## 📑 3. Professional Office & Documentation
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlineHub-tech&color=2563eb&style=for-the-badge&label=Profile+Views)
+Providing professional documentation, reports, and office solutions for businesses and organizations.
 
-*Made with ❤️ from Kigali, Rwanda 🇷🇼*
+| Service | Description |
+|---|---|
+| 📝 Microsoft Word | Business reports, letters, proposals, and professional documents |
+| 📊 Microsoft Excel | Data management, bookkeeping, and calculations |
+| 📽 Microsoft PowerPoint | Modern presentations with professional animations |
+| 📄 PDF Services | Formatting, conversion, and professional document editing |
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Word-185ABD?style=flat-square&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
+
+---
+
+## 📈 4. Digital Marketing & Growth
+
+Helping businesses improve online visibility, branding, and digital performance.
+
+| Service | Description |
+|---|---|
+| 🔍 SEO Optimization | Improving Google ranking and online visibility |
+| 📱 Content Creation | Creating engaging social media content and marketing visuals |
+| 🚀 Digital Strategy | Helping businesses use technology for growth and customer engagement |
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,linkedin,instagram" />
+</p>
+
+---
+
+## 👩‍💻 5. Entrepreneurship & Technical Mentorship
+
+Empowering youth and future innovators through leadership and technology mentorship.
+
+| Service | Description |
+|---|---|
+| 🎓 Technical Training | Teaching Git, GitHub, and beginner-friendly tech skills |
+| 👑 DevQueens Leadership | Supporting and guiding girls entering the tech industry |
+| 📂 Project Management | Managing projects professionally with quality and efficiency |
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,js,ts,php" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel,tailwind,bootstrap,redux" />
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,powershell,bash" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 📈 GitHub Analysis
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlineHub-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlineHub-tech&theme=tokyonight" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlineHub-tech&theme=tokyonight" />
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/umugwaneza-aline">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://aline-site-seven.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/a_li_ne97">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Creativity + Code = The Power To Build The Future.”</i>
+</p>
