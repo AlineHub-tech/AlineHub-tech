@@ -142,13 +142,17 @@ Empowering youth and future innovators through leadership and technology mentors
 
 ---
 
-# 📊 GitHub Analytics
+## 🔥 GitHub Activity
 
-<p align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AlineHub-tech&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages (All Languages Used)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&langs_count=20&theme=tokyonight)
 
 ---
 
