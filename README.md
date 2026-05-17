@@ -9,11 +9,18 @@
   <img src="https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat&color=2EB82E" />
   <img src="https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat&color=FFD700" />
 </p>
-<div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/rwanda/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda/AlineHub-tech)
 
-</div>
+
+![Total Commits](https://img.shields.io/github/commit-activity/t/AlineHub-tech?label=Total%20Commits&style=for-the-badge&color=2563eb&labelColor=0d0d0d&logo=github)
+
+
+[![committers.top badge](https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda_public/AlineHub-tech)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlineHub-tech&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 
 ---
 
