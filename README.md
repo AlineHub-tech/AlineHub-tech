@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat&color=FFD700" />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda_public/AlineHub-tech)
 <div align="center">
 
 [![committers.top badge](https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda_public/AlineHub-tech)
