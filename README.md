@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat&color=2EB82E" />
   <img src="https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat&color=FFD700" />
 </p>
-
+[![committers.top badge](https://user-badge.committers.top/rwanda/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda/AlineHub-tech)
 ---
 
 ## 👨‍💻 About Me
