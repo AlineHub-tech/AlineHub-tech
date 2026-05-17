@@ -8,8 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=AlineHub-tech&label=Profile+Views&color=1A94FF&style=flat" />
   <img src="https://img.shields.io/github/followers/AlineHub-tech?label=Followers&style=flat&color=2EB82E" />
   <img src="https://img.shields.io/github/stars/AlineHub-tech?label=Stars&style=flat&color=FFD700" />
-  [![committers.top badge](https://user-badge.committers.top/rwanda/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda/AlineHub-tech)
 </p>
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/rwanda/AlineHub-tech.svg)](https://user-badge.committers.top/rwanda/AlineHub-tech)
+
+</div>
 
 ---
 
