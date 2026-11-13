@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:102A43,100:00C896&text=UMUGWANEZA%20ALINE&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20DESIGNER%20%7C%20PHOTOGRAPHER&descSize=12&descAlignY=62&animation=fadeIn" width="100%" />
@@ -162,4 +161,3 @@ I believe in learning by building, growing through challenges, and creating solu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:07111F&height=100&section=footer" width="100%" />
 
 </div>
-```
