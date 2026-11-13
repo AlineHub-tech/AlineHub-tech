@@ -27,6 +27,19 @@
 <img src="https://komarev.com/ghpvc/?username=AlineHub-tech&label=PROFILE+VIEWS&color=087F5B&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/AlineHub-tech?label=FOLLOWERS&style=flat-square&color=1A94FF"/>
 
+
+<div align="center">
+
+<a href="https://user-badge.committers.top/rwanda_public/AlineHub-tech">
+<img src="https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg" alt="Rwanda Committers Ranking"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+
+</div>
+
 </div>
 
 ---
@@ -170,22 +183,6 @@ Bringing stories and ideas to life through visual content.
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&bg_color=0D1117&color=39D98A&line=1A94FF&point=FFFFFF&area=true&hide_border=true&custom_title=Building%20Consistency%20Through%20Code"/>
-
-</div>
-
----
-
-## ACHIEVEMENTS & RECOGNITION
-
-<div align="center">
-
-<a href="https://user-badge.committers.top/rwanda_public/AlineHub-tech">
-<img src="https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg" alt="Rwanda Committers Ranking"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
 
 </div>
 
