@@ -1,163 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:102A43,100:00C896&text=UMUGWANEZA%20ALINE&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20DESIGNER%20%7C%20PHOTOGRAPHER&descSize=12&descAlignY=62&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:080D18,50:102A43,100:00C896&text=ALINE%20UMUGWANEZA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DEVELOPER%20%7C%20DESIGNER%20%7C%20PHOTOGRAPHER&descSize=14&descAlignY=60" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/umugwaneza-aline">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/a_li_ne97">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/AlineHub-tech">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="mailto:umugwanezaaline77@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://aline-site-seven.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-00C896?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Explore-00C896?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:umugwanezaaline77@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-white?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AlineHub-tech&label=PROFILE%20VIEWS&color=00C896&style=flat-square" />
-<img src="https://img.shields.io/github/followers/AlineHub-tech?label=FOLLOWERS&style=flat-square&color=0A66C2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=900&color=00C896&center=true&vCenter=true&width=700&lines=I+build+digital+experiences.;I+turn+ideas+into+working+products.;I+design+with+creativity+and+purpose.;Always+learning.+Always+building." />
 
 </div>
 
 ---
 
-## ABOUT ME
+## 01 — ABOUT
 
-I'm **Umugwaneza Aline**, a developer and creative professional from **Kigali, Rwanda**, passionate about building meaningful digital experiences through technology and design.
+I'm **Umugwaneza Aline**, a developer and creative professional based in Kigali, Rwanda.
 
-I enjoy turning ideas into practical solutions, combining problem-solving, creativity, and continuous learning to create work that is functional, thoughtful, and visually engaging.
+I combine technology and creativity to build digital products, design visual experiences, and bring ideas to life.
 
-- 💻 Focused on full-stack and frontend development.
-- 🎨 Interested in graphic design and visual communication.
-- 📸 Passionate about photography and creative storytelling.
-- 🌱 Always learning, experimenting, and improving.
-- 📍 Kigali, Rwanda.
+My interests span full-stack development, frontend engineering, graphic design, and photography.
+
+**My approach:** Understand the problem. Design the experience. Build the solution. Keep improving.
 
 ---
 
-## GITHUB CONTRIBUTIONS
+## 02 — CONTRIBUTION JOURNEY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&bg_color=07111f&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&bg_color=080D18&color=E6EDF3&line=00C896&point=FFFFFF&area=true&area_color=00C896&hide_border=true&custom_title=MY%20GITHUB%20CONTRIBUTIONS" />
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CONSISTENCY-Commit%20by%20commit-00C896?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-Building%20and%20learning-102A43?style=flat-square" />
 
 </div>
 
 ---
 
-## WHAT I DO
+## 03 — PUBLIC REPOSITORIES
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 💻 Software Development
-Building responsive, user-friendly web applications with clean code and practical functionality.
+<a href="https://github.com/AlineHub-tech/Inventory-Management">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlineHub-tech&repo=Inventory-Management&theme=transparent&hide_border=true&title_color=00C896&text_color=E6EDF3&icon_color=00C896" />
+</a>
+<a href="https://github.com/AlineHub-tech/ByteFlow-Ltd">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlineHub-tech&repo=ByteFlow-Ltd&theme=transparent&hide_border=true&title_color=00C896&text_color=E6EDF3&icon_color=00C896" />
+</a>
+<a href="https://github.com/AlineHub-tech/Imena-Moves-Kidz">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlineHub-tech&repo=Imena-Moves-Kidz&theme=transparent&hide_border=true&title_color=00C896&text_color=E6EDF3&icon_color=00C896" />
+</a>
+<a href="https://github.com/AlineHub-tech/A-Better-T-Solutions">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlineHub-tech&repo=A-Better-T-Solutions&theme=transparent&hide_border=true&title_color=00C896&text_color=E6EDF3&icon_color=00C896" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-### 🎨 Graphic Design
-Creating visual identities, promotional materials, and digital designs that communicate clearly.
+<a href="https://github.com/AlineHub-tech?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PUBLIC%20REPOSITORIES-00C896?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📸 Photography
-Capturing meaningful moments through composition, lighting, and visual storytelling.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Creative Media
-Exploring visual content, video editing, and creative digital experiences.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## TECHNOLOGIES & TOOLS
+## 04 — WHAT I WORK WITH
 
-**Languages**
+**Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php,python,java" />
 
-**Frontend Development**
+**Databases & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode,postman,vercel,render" />
 
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-
-**Development Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-
-**Creative Tools**
+**Creative**
 <br/>
 <img src="https://skillicons.dev/icons?i=ps,ai,lightroom,pr" />
 
 ---
 
-## GITHUB ANALYTICS
+## 05 — ACHIEVEMENTS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=C9D1D9&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=C9D1D9" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlineHub-tech&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896" width="75%" />
+<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
 
 </div>
 
 ---
 
-## RECOGNITION
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+### BUILD. CREATE. LEARN. REPEAT.
 
-<br/><br/>
+*Driven by curiosity. Defined by consistency.*
 
-<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/src/images/rank/rank.svg" width="0" />
+<br/>
 
-</div>
-
----
-
-## MY MINDSET
-
-> "Great things are built through curiosity, consistency, creativity, and the courage to keep improving."
-
-I believe in learning by building, growing through challenges, and creating solutions that make a meaningful difference.
-
-<div align="center">
-
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-<a href="https://aline-site-seven.vercel.app">
-  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/AlineHub-tech">
+<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-GitHub-00C896?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:07111F&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:080D18&height=100&section=footer" />
 
 </div>
