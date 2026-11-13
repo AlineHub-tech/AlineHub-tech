@@ -1,197 +1,168 @@
-# 👋 Hi, I'm Umugwaneza Aline
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:102A43,100:2EB82E&height=190&section=header&text=UMUGWANEZA%20ALINE&fontSize=43&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
-
-## 🌱 MY GITHUB CONTRIBUTION JOURNEY
-
-<img src="https://ghchart.rshah.org/2EB82E/AlineHub-tech" alt="GitHub Contribution Calendar" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=190&section=header&text=UMUGWANEZA%20ALINE&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=BUILDING%20WITH%20CODE.%20CREATING%20WITH%20PURPOSE.&descAlignY=65&descSize=13" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/umugwaneza-aline">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/a_li_ne97">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/AlineHub-tech">
+  <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=181717" />
 </a>
 <a href="https://aline-site-seven.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-00C896?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:umugwanezaaline77@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-2EB82E?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=1000&color=2EB82E&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Creative+Frontend+Developer;Graphic+Designer;Photographer+%26+Visual+Creator;Innovation+%E2%80%A2+Creativity+%E2%80%A2+Technology" />
-
-**Full-Stack Developer • Graphic Designer • Photographer**
-
-🇷🇼 Kigali, Rwanda | Building ideas into digital experiences.
-
-</div>
-
----
-
-## 👩‍💻 ABOUT ME
-
-I'm **Umugwaneza Aline**, a creative Full-Stack Developer and Graphic Designer from **Rwanda 🇷🇼**.
-
-I enjoy transforming ideas into meaningful digital experiences through software development, creative design, and visual storytelling.
-
-My work combines technical problem-solving with creativity to build solutions that are functional, accessible, and visually engaging.
-
-- 💻 Building modern and responsive web applications.
-- 🌐 Developing frontend and backend solutions.
-- 🎨 Creating visual identities and digital designs.
-- 📸 Capturing moments through photography.
-- 🎬 Exploring creative video production.
-- 🚀 Learning, building, experimenting, and growing through technology.
-
-**My philosophy:** Creativity meets technology. Ideas become reality.
-
----
-
-## 💡 INNOVATION & CREATIVITY
-
-I believe innovation begins with curiosity, creativity, and the courage to explore new possibilities.
-
-For me, development is not just about writing code. It is about understanding problems, imagining better solutions, and bringing ideas to life.
-
-### What inspires my work
-
-- **Innovation** — Exploring new ideas and discovering smarter ways to solve problems.
-- **Creativity** — Approaching every challenge with originality and imagination.
-- **Technology** — Using digital tools to build useful and meaningful experiences.
-- **Problem Solving** — Turning complex challenges into practical solutions.
-- **Continuous Growth** — Learning new skills, experimenting, and improving every day.
-- **Purpose** — Creating work that communicates, connects, and makes a difference.
-
-> Think beyond the ordinary. Create with purpose. Build with innovation.
-
----
-
-## 🛠️ TECH STACK & TOOLS
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Development Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,figma" />
-</p>
-
-### Creative Tools
-
-<p>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
-</p>
-
----
-
-## 🎨 CREATIVE & VISUAL WORLD
-
-Beyond coding, I enjoy expressing ideas through design, photography, and visual storytelling.
-
-### Graphic Design
-- Brand Identity & Logo Design
-- Social Media Graphics
-- Marketing & Promotional Designs
-- Digital Campaign Visuals
-- Creative Layouts & Composition
-
-### Photography
-- Portrait Photography
-- Product Photography
-- Event Photography
-- Outdoor Photography
-- Visual Storytelling
-
-### Video & Creative Production
-- Video Editing
-- Creative Content Production
-- Behind-the-Scenes Content
-- Digital Storytelling
-
-I believe great digital experiences are built through both functionality and powerful visual communication.
-
----
-
-## ⚡ HOW I WORK
-
-<div align="center">
-
-| PRINCIPLE | MY APPROACH |
-|:---|:---|
-| 💡 Think | Explore ideas and understand the problem |
-| 🎨 Create | Develop original concepts and visual directions |
-| 💻 Build | Turn ideas into functional digital solutions |
-| 🔍 Improve | Test, learn, and refine the experience |
-| 🚀 Grow | Keep learning and exploring new possibilities |
-
-</div>
-
----
-
-## 🌍 LET'S CONNECT
-
-I'm always interested in meaningful collaborations, creative opportunities, knowledge sharing, and connecting with people who are passionate about technology, design, and innovation.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/umugwaneza-aline">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/a_li_ne97">
-<img src="https://img.shields.io/badge/Instagram-Follow%20My%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://aline-site-seven.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:umugwanezaaline77@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-2EB82E?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### CREATIVITY × TECHNOLOGY × INNOVATION
-
-*Imagine beyond limits. Create with purpose. Build what matters.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00C896&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Creative+Frontend+Developer;Graphic+Designer+%26+Photographer;Turning+ideas+into+digital+experiences." />
 
 <br/>
 
-🇷🇼 **Made with passion in Rwanda.**
+<sub>📍 Kigali, Rwanda · Open to meaningful collaborations</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EB82E,50:102A43,100:07111F&height=110&section=footer" />
+---
+
+## THE PERSON BEHIND THE CODE
+
+I'm **Aline** — a developer and creative professional passionate about technology, design, and building things that solve real problems.
+
+I enjoy working across the entire creative process: understanding an idea, designing the experience, writing the code, and bringing the final product to life.
+
+- Building responsive and functional web applications.
+- Exploring full-stack development and creative frontend experiences.
+- Creating visual identities and digital designs.
+- Capturing stories through photography and visual media.
+- Learning continuously and improving through real projects.
+
+---
+
+## MY GITHUB JOURNEY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&bg_color=0B1220&color=E6EDF3&line=00C896&point=FFFFFF&area=true&area_color=00C896&hide_border=true&custom_title=MY%20CONTRIBUTION%20ACTIVITY" />
+
+</div>
+
+I believe consistency is built one commit at a time. This graph reflects my development activity and contributions over time.
+
+---
+
+## WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / DEVELOPMENT
+
+Web applications, responsive interfaces, backend functionality, APIs, and database-driven solutions.
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / GRAPHIC DESIGN
+
+Brand identities, digital graphics, promotional materials, and visual communication.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / PHOTOGRAPHY
+
+Portraits, events, creative compositions, and visual storytelling.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / CREATIVE MEDIA
+
+Video editing, digital content, and visual experiences that bring ideas to life.
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECHNOLOGY TOOLKIT
+
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+
+**Tools & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+
+**Creative Suite**
+<br/>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,lightroom" />
+
+---
+
+## SELECTED PUBLIC WORK
+
+<div align="center">
+
+<a href="https://github.com/AlineHub-tech/Inventory-Management">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlineHub-tech&repo=Inventory-Management&theme=transparent&hide_border=true&title_color=00C896&text_color=E6EDF3&icon_color=00C896" />
+</a>
+
+<br/>
+
+<a href="https://github.com/AlineHub-tech?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PUBLIC%20REPOSITORIES-00C896?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### CODE WITH PURPOSE. CREATE WITH PASSION.
+
+*Always building. Always learning. Always evolving.*
+
+<br/>
+
+<a href="https://aline-site-seven.vercel.app">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-00C896?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=65&section=footer" />
+
+</div>
