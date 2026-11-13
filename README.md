@@ -1,84 +1,73 @@
+```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080D18,45:102A43,100:087F5B&text=UMUGWANEZA%20ALINE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20GRAPHIC%20DESIGNER%20%7C%20PHOTOGRAPHER&descSize=12&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:07111F,50:102A43,100:00C896&text=UMUGWANEZA%20ALINE&fontColor=FFFFFF&fontSize=42&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20CREATIVE%20DESIGNER%20%7C%20PHOTOGRAPHER&descSize=12&descAlignY=62&animation=fadeIn" width="100%" />
 
-<h3>Building Ideas Into Digital Experiences.</h3>
+<br/>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=39D98A&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Creative+Frontend+Engineer;Graphic+Designer;Photographer+%26+Visual+Creator;Technology+%2B+Creativity+%3D+Impact" />
-</p>
+<a href="https://www.linkedin.com/in/umugwaneza-aline">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/a_li_ne97">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/AlineHub-tech">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:umugwanezaaline77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://aline-site-seven.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-00C896?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://aline-site-seven.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-087F5B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:umugwanezaaline77@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Let's%20Connect-172B43?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<br/><br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/umugwaneza-aline"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/a_li_ne97"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/AlineHub-tech"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:umugwanezaaline77@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p>
-  🇷🇼 Kigali, Rwanda
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=AlineHub-tech&label=PROFILE+VIEWS&color=087F5B&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/AlineHub-tech?label=FOLLOWERS&style=flat-square&color=1A94FF"/>
+<img src="https://komarev.com/ghpvc/?username=AlineHub-tech&label=PROFILE%20VIEWS&color=00C896&style=flat-square" />
+<img src="https://img.shields.io/github/followers/AlineHub-tech?label=FOLLOWERS&style=flat-square&color=0A66C2" />
 
 </div>
 
 ---
 
-## ✦ ABOUT ME
+## ABOUT ME
 
-<img align="right" width="225" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm **Umugwaneza Aline**, a developer and creative professional from **Kigali, Rwanda**, passionate about building meaningful digital experiences through technology and design.
 
-I'm **Umugwaneza Aline**, a creative developer and designer from Rwanda 🇷🇼.
+I enjoy turning ideas into practical solutions, combining problem-solving, creativity, and continuous learning to create work that is functional, thoughtful, and visually engaging.
 
-I combine technology and creativity to transform ideas into meaningful digital experiences.
-
-My passion lies in building functional web applications, designing beautiful visual identities, and exploring innovative ways to solve real-world problems.
-
-- 💻 Developing modern web applications.
-- 🎨 Creating meaningful visual experiences.
-- 📸 Capturing stories through photography.
-- 🚀 Exploring technology and innovation.
-- 🌱 Growing through continuous learning.
-
-<br clear="right"/>
+- 💻 Focused on full-stack and frontend development.
+- 🎨 Interested in graphic design and visual communication.
+- 📸 Passionate about photography and creative storytelling.
+- 🌱 Always learning, experimenting, and improving.
+- 📍 Kigali, Rwanda.
 
 ---
 
-## ✦ WHAT I DO
+## GITHUB CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&bg_color=07111f&color=00c896&line=00c896&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+</div>
+
+---
+
+## WHAT I DO
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Development
-
-Building responsive, functional and user-focused digital solutions.
-
-- Frontend Development
-- Backend Development
-- Full-Stack Web Applications
-- Database Integration
-- Responsive Web Design
+### 💻 Software Development
+Building responsive, user-friendly web applications with clean code and practical functionality.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 Graphic Design
-
-Transforming ideas into powerful visual communication.
-
-- Brand Identity
-- Logo Design
-- Marketing Graphics
-- Social Media Design
-- Digital Visual Content
+Creating visual identities, promotional materials, and digital designs that communicate clearly.
 
 </td>
 </tr>
@@ -86,25 +75,13 @@ Transforming ideas into powerful visual communication.
 <td width="50%" valign="top">
 
 ### 📸 Photography
-
-Capturing authentic moments and telling visual stories.
-
-- Portrait Photography
-- Product Photography
-- Event Photography
-- Photo Editing
+Capturing meaningful moments through composition, lighting, and visual storytelling.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 Creative Media
-
-Bringing stories and ideas to life through visual content.
-
-- Video Editing
-- Promotional Content
-- Visual Storytelling
-- Creative Production
+Exploring visual content, video editing, and creative digital experiences.
 
 </td>
 </tr>
@@ -112,101 +89,77 @@ Bringing stories and ideas to life through visual content.
 
 ---
 
-## ✦ TECH STACK & TOOLS
+## TECHNOLOGIES & TOOLS
 
 **Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java" />
 
 **Frontend Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
 **Backend & Databases**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 
 **Development Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render"/>
-</p>
-
-**Creative Software**
-
-<p>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-</p>
+**Creative Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=ps,ai,lightroom,pr" />
 
 ---
 
-## ✦ GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlineHub-tech&show_icons=true&theme=transparent&hide_border=true&title_color=00C896&icon_color=00C896&text_color=C9D1D9&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHub-tech&layout=compact&theme=transparent&hide_border=true&title_color=00C896&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlineHub-tech&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlineHub-tech&theme=transparent&hide_border=true&ring=00C896&fire=00C896&currStreakLabel=00C896" width="75%" />
 
 </div>
 
 ---
 
-## ✦ CONTRIBUTION ACTIVITY
+## RECOGNITION
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlineHub-tech&bg_color=0D1117&color=39D98A&line=1A94FF&point=FFFFFF&area=true&hide_border=true&custom_title=Building%20Consistency%20Through%20Code"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/src/images/rank/rank.svg" width="0" />
 
 </div>
 
 ---
 
-## ✦ ACHIEVEMENTS & RECOGNITION
+## MY MINDSET
+
+> "Great things are built through curiosity, consistency, creativity, and the courage to keep improving."
+
+I believe in learning by building, growing through challenges, and creating solutions that make a meaningful difference.
 
 <div align="center">
 
-<a href="https://user-badge.committers.top/rwanda_public/AlineHub-tech">
-<img src="https://user-badge.committers.top/rwanda_public/AlineHub-tech.svg" alt="Rwanda Committers Ranking"/>
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+<a href="https://aline-site-seven.vercel.app">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlineHub-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:07111F&height=100&section=footer" width="100%" />
 
 </div>
-
----
-
-## ✦ MY MINDSET
-
-I believe that great ideas deserve thoughtful execution.
-
-Technology gives us the tools to build. Creativity gives us the vision to make those solutions meaningful.
-
-I'm committed to learning, creating, improving, and building things that matter.
-
-<div align="center">
-
-### "Think creatively. Build intelligently. Create impact."
-
-**UMUGWANEZA ALINE** 🇷🇼
-
-<sub>Code • Creativity • Innovation</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:087F5B,50:102A43,100:080D18"/>
-
-</div>
+```
